@@ -1,4 +1,4 @@
-/* */
+/* Obtenido de https://rosettacode.org/wiki/Sorting_algorithms/Cocktail_sort*/
 #include <bits/stdc++.h>
 #include <chrono>
 #include<stdio.h>
