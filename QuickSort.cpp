@@ -63,7 +63,7 @@ void printArray(int arr[], int size)
 // Driver program to test above functions
 int main()
 {
-	int n=1000000;
+	int n=100000;
 	int array[n];
 	int nrand =n*10;
 

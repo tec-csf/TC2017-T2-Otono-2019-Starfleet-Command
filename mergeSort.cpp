@@ -1,4 +1,4 @@
-/* Obtenido de */
+/* Obtenido de https://appdividend.com/2019/04/30/merge-sort-in-cpp-tutorial-with-example-cpp-merge-sort-program/*/
 
 
 #ifndef MERGESORT_CPP_
@@ -68,7 +68,7 @@ int MergeSort(int A[],int p,int r)
 
 int main()
 {
-	int n=1000000;
+	int n=INT_MAX;
 	int* array= new int[n];
 	int nrand =n*10;
 

@@ -1,4 +1,4 @@
-/* */
+/* https://www.programmingalgorithms.com/algorithm/bucket-sort?lang=C%2B%2B*/
 #include <bits/stdc++.h>
 #include <chrono>
 #include<stdio.h>
@@ -27,7 +27,7 @@ void BubbleSort(int arr[], int size){
 
 int main()
 {
-int n=1000000;
+int n=100;
 	int array[n];
 	int nrand =n*10;
 

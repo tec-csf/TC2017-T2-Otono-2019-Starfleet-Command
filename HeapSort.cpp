@@ -51,7 +51,7 @@ void Build_MaxHeap(int a[], int n)
 }
 int main()
 {
-	int n=1000000;
+	int n=1000;
 		int array[n+1];
 		int nrand =n*10;
 

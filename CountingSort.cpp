@@ -35,7 +35,7 @@ void countSort(int *array, int size) {
    }
 }
 int main() {
-	int n=999999;
+	int n=100000;
 	int array[n+1];
 	int nrand =n*10;
 

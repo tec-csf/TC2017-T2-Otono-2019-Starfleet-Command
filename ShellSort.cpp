@@ -30,7 +30,7 @@ void shellSort(int *arr, int n) {
    }
 }
 int main() {
-	int n=1000000;
+	int n=100000;
 	int array[n];
 	int nrand =n*10;
 

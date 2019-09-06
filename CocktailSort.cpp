@@ -57,7 +57,7 @@ void CocktailSort(int a[], int n)
 
 int main()
 {
-int n=1000000;
+int n=100;
 	int array[n];
 	int nrand =n*10;
 
